@@ -1,0 +1,97 @@
+.hero-unit h3,h4{
+	color: #6b2438;
+	text-align: center;
+}
+	
+.hero-unit p{
+	text-align: center;
+}
+
+.hero-unit h3{
+	padding-top: 10%;
+}
+
+.hero-unit{
+	background-image:  url("../img/hero.jpg");
+	height: 300px;
+}
+
+.ltcol{
+	background-image:  url("../img/lightning.jpg");
+	height: 300px;
+	background-repeat: no-repeat;
+}
+
+.weather{
+	margin-top: 15px;
+}
+
+.statistics{
+	margin-top: 15px;
+}
+
+.rtcol{
+	background-image:  url("../img/indiaWeather.png");
+	height: 300px;
+	background-repeat: no-repeat;
+}
+
+footer{
+	background: #333;
+	color: #eee;
+	font-size: 11px;
+	padding: 20px;
+}
+
+
+ul.noStyle{
+	list-style: none;
+	padding: 0px;
+	font-size: 12px;
+}
+
+.link{
+	line-height: 30px;
+}
+
+.aboutUs p{
+	font-size: 12px;
+}
+
+.cRight h5, .aboutUs h5, .navigation h5, .link h5{
+	color: orange;
+}
+
+.pH h1{
+	color: #fc6310;
+}
+
+
+.menu a:hover{
+	color: #fc6310;
+}
+
+
+.threeCol h1{
+	color: #1f384d;
+}
+
+body{
+	font-family: sans-serif;
+	font-weight: 400;
+}
+
+input[type="text"]{
+
+	width: 100%;
+	border: 2px solid #ccc;
+	border-radius: 5px;
+	font-size: 20px;
+	background: white;
+	background-image: url("../img/search.png");
+	background-repeat: no-repeat;
+	background-position: 5px ;
+	padding: 12px 20px 12px 40px;
+
+}
+
